@@ -14,7 +14,7 @@ Proposals can do anything that's on chain: send funds from a treasury, update th
 
 ### How does Governor work?
 
-A Governor contract needs on a **token contract**. The token contract provides the Governor the voting power of different addresses. Tally supports Governors that work with both fungible (ERC20) and non-fungible (ERC721) token contracts.
+A Governor contract needs a **token contract**. The token contract provides the Governor the voting power of different addresses. Tally supports Governors that work with both fungible (ERC20) and non-fungible (ERC721) token contracts.
 
 **Implementation detail**
 
