@@ -6,7 +6,7 @@ description: >-
 
 # Pick good Governor parameters
 
-A Governor contract has several important parameters that affect the lifecycles of its proposals . Think about these parameters as a balancing act between ease of passing proposals and security against malicious proposals. That’s an important – and tough – tradeoff to get right!&#x20;
+A Governor contract has several important parameters that affect the lifecycles of its proposals. Think about these parameters as a balancing act between ease of passing proposals and security against malicious proposals. That’s an important – and tough – tradeoff to get right!&#x20;
 
 Here's a guide to picking these parameters to set a DAO up for success by picking the right parameters:
 
@@ -28,10 +28,10 @@ The Proposal Threshold is the amount of voting power that an account needs to ma
 
 The purpose of the threshold is to prevent spam proposals and to make sure that anyone making a proposal has either direct economic exposure or trust from delegators. Some DAOs set the proposal threshold to 0 to lower the barriers to participating.
 
-Picking a good Proposal Threshold depends on the distribution of delegated voting power, which might be hard to know before the DAO gets off the ground. Once the distribution of voting power is known, it’s a good idea to have a medium-size group of delegates over the threshold. DAOs on Tally typically set their Proposal Threshold to a place where at least 5-10 delegates have enough voting power to make a proposal.
+Picking a good Proposal Threshold depends on the distribution of delegated voting power, which might be hard to know before the DAO gets off the ground. Once the distribution of voting power is known, it’s a good idea to have a medium-sized group of delegates over the threshold. DAOs on Tally typically set their Proposal Threshold to a place where at least 5-10 delegates have enough voting power to make a proposal.
 
 {% hint style="info" %}
-If there isn't anyone more voting power than the proposal threshold, one option is to have people to delegate to an Autonomous Proposal, which is a smart contract that can make a proposal when it gets enough delegations. Learn more about autonomous proposals in [this blog post from Compund](https://medium.com/compound-finance/compound-autonomous-proposals-354e7a2ad6b7).
+If there isn't anyone with more voting power than the proposal threshold, one option is to have people to delegate to an Autonomous Proposal, which is a smart contract that can make a proposal when it gets enough delegations. Learn more about autonomous proposals in [this blog post from Compund](https://medium.com/compound-finance/compound-autonomous-proposals-354e7a2ad6b7).
 {% endhint %}
 
 ### **How to pick the Quorum**&#x20;
