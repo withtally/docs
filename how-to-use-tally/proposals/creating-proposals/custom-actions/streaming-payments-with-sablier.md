@@ -124,7 +124,7 @@ Let’s go over them one by one:
 * **broker address:** the broker address. If you don’t know what this is, you don't need it. Simply set it to `0x0000000000000000000000000000000000000000` as laid out in the example.
 * **broker fee:** the broker fee. Again, if you don’t know what this is, you don’t need it. Simply set it to `0`.
 
-Regarding cancelation, all streams in Sablier V2 have a cancelation setting.
+Regarding cancelation, all streams in Sablier V2 have a cancellation setting.
 
 If it’s set to `true`, that means that the stream can be canceled at any time by the stream creator. The stream creator is the DAO. Canceling the stream will stop it and return the funds which haven’t yet been streamed over to the stream creator. If the DAO wants to cancel a cancellable stream, generally that will require another proposal.
 
