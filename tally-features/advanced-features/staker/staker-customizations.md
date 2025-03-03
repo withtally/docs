@@ -1,6 +1,6 @@
 ---
 icon: arrow-down-up-across-line
-description: Staker's EarningPowerCalculator acts as a programable incentive system
+description: Staker's EarningPowerCalculator acts as a programmable incentive system
 ---
 
 # Staker customizations
