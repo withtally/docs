@@ -5,7 +5,7 @@ description: Make voting more capital efficient, cheaper or more private
 
 # Flexible Voting Extension
 
-The Scopelift team built a Flexible Voting extention with support from Uniswap Grants Program. For implementation details, check out [their blog post about flexible voting](https://www.scopelift.co/blog/introducing-flexible-voting):
+The Scopelift team built a Flexible Voting extension with support from Uniswap Grants Program. For implementation details, check out [their blog post about flexible voting](https://www.scopelift.co/blog/introducing-flexible-voting):
 
 > This new building block allows arbitrary delegate contracts to be developed which can unlock all kinds of new use cases, such as:
 >
