@@ -17,7 +17,7 @@ The regulatory environment is catching up. Pending [U.S. market structure legisl
 
 Token sales are a faster, more accessible way to raise capital. Compared to traditional fundraising, they offer real advantages:
 
-* **Global participation.** Anyone can participate. No geographic restrictions, no accredited investor gates.
+* **Global participation.** Broad access for eligible participants worldwide, subject to jurisdiction and compliance requirements.
 * **Better price discovery.** Prices are [set by the market during the sale](https://docs.doppler.lol/how-it-works/implementation), not by underwriters in a closed room.
 * **Instant settlement.** Transactions clear on-chain in [minutes](https://www.fireblocks.com/glossary/transaction-settlement), not days.
 * **Lower cost and faster execution.** Traditional IPOs require [12-18 months of preparation and millions in fees](https://www.pwc.com/us/en/services/consulting/deals/library/cost-of-an-ipo.html). Token sales can launch in weeks at a fraction of the cost.
@@ -26,18 +26,18 @@ Token sales are a faster, more accessible way to raise capital. Compared to trad
 
 Ready to launch with tally? [Talk to our team to get started](http://tally.xyz/contact).
 
-{% content-ref url="tally-features/token-sales-and-icos.md" %}
-[token-sales-and-icos.md](tally-features/token-sales-and-icos.md)
+{% content-ref url="token-sales/README.md" %}
+[How Token Sales Work](token-sales/README.md)
 {% endcontent-ref %}
 
-{% content-ref url="tally-features/token-launch/" %}
-[token-launch](tally-features/token-launch/)
+{% content-ref url="sale-types/README.md" %}
+[Sale Types](sale-types/README.md)
 {% endcontent-ref %}
 
-{% content-ref url="tally-features/incentives-and-staking/" %}
-[incentives-and-staking](tally-features/incentives-and-staking/)
+{% content-ref url="benefits/for-projects.md" %}
+[For Projects](benefits/for-projects.md)
 {% endcontent-ref %}
 
-{% content-ref url="tally-features/governance/" %}
-[governance](tally-features/governance/)
+{% content-ref url="post-launch-tooling/README.md" %}
+[Post-Launch Tooling](post-launch-tooling/README.md)
 {% endcontent-ref %}
